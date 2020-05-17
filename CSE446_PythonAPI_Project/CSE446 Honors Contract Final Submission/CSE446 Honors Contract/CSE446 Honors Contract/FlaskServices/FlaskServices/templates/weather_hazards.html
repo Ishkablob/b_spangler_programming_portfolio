@@ -1,0 +1,14 @@
+﻿<h1>Weather Hazards TryIt Page</h1>
+<h3>Weather Hazards takes an input latitude and longitude and returns an estimate of how much danger you are in from weather hazards.</h3>
+<h3>A score of 0 means no hazards are nearby.  A score of 0-10 means be careful going outside, a score of 11+ means stay inside.</h3>
+<h3>Hazard score is determined off of wind speed, temperature, visibility, and other general weather hazards nearby.</h3>
+<h3>If any of these measures enter dangerous values - i.e. extremely high temperatures, low visibility - the score index goes up.</h3>
+<h3>This service works well with the geolocator service for finding your coordinates from your address.</h3>
+<h3>Try using the geolocator service to find an address's coordinates, then use those coordinates in this service to find a weather hazard index.</h3>
+<form method='POST'>
+    <input name='input_lat' />
+    <input name='input_long' />
+    <input type='submit' />
+</form>
+
+<p>Weather Hazard Index: {{ index }}</p>

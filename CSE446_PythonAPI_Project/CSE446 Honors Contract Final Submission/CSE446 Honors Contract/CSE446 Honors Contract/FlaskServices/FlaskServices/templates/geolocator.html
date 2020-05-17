@@ -1,0 +1,15 @@
+﻿<h1>Geolocator TryIt Page</h1>
+<h3>Geolocator takes an input address (first box: street address, second box: city, third box: state)</h3>
+<h3>and returns rough latitude and longitude coordinates of the address.</h3>
+<h3>Try inputting an address to find its latitude and longitude coodinates.</h3>
+<form method='POST'>
+    <input name='input_street_add' />
+    <input name='input_city' />
+    <input name='input_state' />
+    <input type='submit' />
+</form>
+
+<p>These are your coordinates:</p>
+<p>Latitude = {{ lat }}</p>
+<p>Longitude = {{ long }}</p>
+<p>Note: return of -1, -1 indicates no input or invald address.</p>
