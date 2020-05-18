@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/ASU Fall 2018 Classes/CPI 311 Game Engine Dev/JAM ON/Final/Content/Toto Africa.mp3</SourceFile>
+  <SourceTime>2018-11-24T14:08:42.6186687-07:00</SourceTime>
+  <DestFile>D:/ASU Fall 2018 Classes/CPI 311 Game Engine Dev/JAM ON/Final/Content/bin/Windows/Toto Africa.xnb</DestFile>
+  <DestTime>2020-05-17T20:11:59.8260189-07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/ASU Fall 2018 Classes/CPI 311 Game Engine Dev/JAM ON/Final/Content/bin/Windows/Toto Africa.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

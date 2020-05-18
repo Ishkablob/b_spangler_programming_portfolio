@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/ASU Fall 2018 Classes/CPI 311 Game Engine Dev/JAM ON/Final/Content/Box.fbx</SourceFile>
+  <SourceTime>2018-10-30T17:46:46.7610831-07:00</SourceTime>
+  <DestFile>D:/ASU Fall 2018 Classes/CPI 311 Game Engine Dev/JAM ON/Final/Content/bin/Windows/Box.xnb</DestFile>
+  <DestTime>2020-05-17T20:12:00.3093752-07:00</DestTime>
+  <Importer>FbxImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>ModelProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>DefaultEffect</Key>
+    <Value>BasicEffect</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateTangentFrames</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyTextureAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyVertexColors</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeTexturesToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationX</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationY</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationZ</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Scale</Key>
+    <Value>1</Value>
+  </Parameters>
+  <Parameters>
+    <Key>SwapWindingOrder</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
